@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // site), set base to '/' instead.
 export default defineConfig({
   plugins: [react()],
-  base: '/',
+  base: '',
 })
