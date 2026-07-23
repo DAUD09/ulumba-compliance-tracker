@@ -73,16 +73,12 @@ export default function App() {
       <header className="app-header">
         <div className="header-inner">
           <div className="brand">
-            <span className="brand-mark" aria-hidden="true">
-              <svg width="30" height="30" viewBox="0 0 32 32">
-                <rect width="32" height="32" rx="6" fill="#E8B84B" />
-                <path d="M6 22 L12 10 L16 18 L20 8 L26 22" stroke="#0B1F3A" strokeWidth="2.5" fill="none" strokeLinecap="round" strokeLinejoin="round" />
-              </svg>
-            </span>
-            <div>
-              <div className="brand-name">Ulumba Logistics</div>
-              <div className="brand-sub">Compliance Tracker</div>
-            </div>
+            <img
+              src="/ulumba-logo-full.svg"
+              alt="Ulumba Logistics"
+              className="brand-logo"
+            />
+            <div className="brand-sub">Compliance Tracker</div>
           </div>
           <div className="header-note">Prototype · fleet &amp; permit document register</div>
         </div>
