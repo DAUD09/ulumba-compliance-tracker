@@ -74,7 +74,7 @@ export default function App() {
         <div className="header-inner">
           <div className="brand">
             <img
-              src="/ulum"
+              src="/ulumba-logo-full.svg"
               alt="Ulumba Logistics"
               className="brand-logo"
             />

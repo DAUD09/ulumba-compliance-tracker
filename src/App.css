@@ -51,6 +51,18 @@
   text-transform: uppercase;
 }
 
+.brand-logo {
+  height: 42px;
+  width: auto;
+  display: block;
+}
+
+.brand-sub {
+  font-size: 0.82rem;
+  color: #b9c6dd;
+  margin-top: 1px;
+}
+
 /* Signature: a dashed lane-marker line under the header, evoking a road route */
 .lane-divider {
   height: 3px;
