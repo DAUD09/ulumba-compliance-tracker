@@ -115,7 +115,7 @@ export default function App() {
       </main>
 
       <footer className="app-footer">
-        Data snapshot loaded at build time from the compliance register. This is a working
+        DISCLAIMER: Data snapshot loaded at build time from the compliance register. This is a working
         prototype — no data leaves your browser, and nothing is written back to a live system yet.
       </footer>
     </div>
