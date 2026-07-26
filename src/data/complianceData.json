@@ -449,5 +449,16 @@
     "status": "VALID",
     "responsiblePerson": "Amos",
     "remarks": ""
+  },
+  {
+    "id": 42,
+    "assetType": "Horse",
+    "regNo": "NN4933",
+    "documentType": "CERTIFICATE OF FITNESS",
+    "routeDetail": "-",
+    "expiryDate": "2026-07-16",
+    "status": "EXPIRED",
+    "responsiblePerson": "Wison",
+    "remarks": ""
   }
 ]
