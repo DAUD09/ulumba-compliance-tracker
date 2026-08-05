@@ -60,9 +60,9 @@
     "regNo": "KU4467",
     "documentType": "CERTIFICATE OF FITNESS",
     "routeDetail": "-",
-    "expiryDate": "2026-08-14",
+    "expiryDate": "2027-08-04",
     "status": "VALID",
-    "responsiblePerson": "-",
+    "responsiblePerson": "Alinafe",
     "remarks": ""
   },
   {
@@ -460,5 +460,16 @@
     "status": "EXPIRED",
     "responsiblePerson": "Wison",
     "remarks": ""
+  },
+  {
+    "id": 43,
+    "assetType": "TRAILER",
+    "regNo": "NN4932",
+    "documentType": "CERTIFICATE OF FITNESS",
+    "routeDetail": "-",
+    "expiryDate": "2027-08-04",
+    "status": "VALID",
+    "responsiblePerson": "",
+    "remarks": "at the yard"
   }
 ]
