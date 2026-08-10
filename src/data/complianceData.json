@@ -116,7 +116,7 @@
     "documentType": "MOTOR INSURANCE CERT",
     "routeDetail": "-",
     "expiryDate": "2026-07-28",
-    "status": "VALID",
+    "status": "EXPIRED",
     "responsiblePerson": "Wison",
     "remarks": ""
   },
@@ -366,9 +366,9 @@
     "id": 34,
     "assetType": "TRAILER",
     "regNo": "KU4016",
-    "documentType": "MOTOR INSURANCE CERT",
-    "routeDetail": "-",
-    "expiryDate": "2026-09-09",
+    "documentType": "CROSS BORDER PERMIT",
+    "routeDetail": "MW-SA",
+    "expiryDate": "2027-08-08",
     "status": "VALID",
     "responsiblePerson": "Joseph Mauya",
     "remarks": ""
@@ -423,9 +423,9 @@
     "regNo": "NN4931",
     "documentType": "CERTIFICATE OF FITNESS",
     "routeDetail": "-",
-    "expiryDate": "2026-07-16",
-    "status": "EXPIRED",
-    "responsiblePerson": "Action",
+    "expiryDate": "2027-08-06",
+    "status": "VALID",
+    "responsiblePerson": "Trust",
     "remarks": ""
   },
   {
@@ -456,8 +456,8 @@
     "regNo": "NN4933",
     "documentType": "CERTIFICATE OF FITNESS",
     "routeDetail": "-",
-    "expiryDate": "2026-07-16",
-    "status": "EXPIRED",
+    "expiryDate": "2027-08-07",
+    "status": "VALID",
     "responsiblePerson": "Wison",
     "remarks": ""
   },
@@ -471,5 +471,49 @@
     "status": "VALID",
     "responsiblePerson": "",
     "remarks": "at the yard"
+  },
+  {
+    "id": 44,
+    "assetType": "TRAILER",
+    "regNo": "KU5563",
+    "documentType": "CROSS BORDER PERMIT",
+    "routeDetail": "MW-SA",
+    "expiryDate": "2027-08-08",
+    "status": "VALID",
+    "responsiblePerson": "Joseph Mauya",
+    "remarks": "-"
+  },
+  {
+    "id": 45,
+    "assetType": "TRAILER",
+    "regNo": "KU5563",
+    "documentType": "CROSS BORDER PERMIT",
+    "routeDetail": "MW-ZIM",
+    "expiryDate": "2027-08-08",
+    "status": "VALID",
+    "responsiblePerson": "Joseph Mauya",
+    "remarks": "-"
+  },
+  {
+    "id": 46,
+    "assetType": "Horse",
+    "regNo": "KU8751",
+    "documentType": "CROSS BORDER PERMIT",
+    "routeDetail": "MW-SA",
+    "expiryDate": "2027-08-24",
+    "status": "VALID",
+    "responsiblePerson": "Edward",
+    "remarks": "-"
+  },
+  {
+    "id": 47,
+    "assetType": "TRAILER",
+    "regNo": "KU4016",
+    "documentType": "CERTIFICATE OF FITNESS",
+    "routeDetail": "-",
+    "expiryDate": "2027-08-07",
+    "status": "VALID",
+    "responsiblePerson": "Joseph Mauya",
+    "remarks": "-"
   }
 ]
