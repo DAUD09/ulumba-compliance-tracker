@@ -148,8 +148,8 @@
     "regNo": "KU8751",
     "documentType": "MOTOR INSURANCE CERT",
     "routeDetail": "-",
-    "expiryDate": "2026-07-24",
-    "status": "EXPIRED",
+    "expiryDate": "2026-09-06",
+    "status": "VALID",
     "responsiblePerson": "Edward",
     "remarks": ""
   },
@@ -335,7 +335,7 @@
     "regNo": "KU5563",
     "documentType": "MOTOR INSURANCE CERT",
     "routeDetail": "-",
-    "expiryDate": "2026-08-13",
+    "expiryDate": "2027-08-08",
     "status": "VALID",
     "responsiblePerson": "Joseph Mauya",
     "remarks": ""
@@ -380,7 +380,7 @@
     "documentType": "CERTIFICATE OF FITNESS",
     "routeDetail": "-",
     "expiryDate": "2026-08-14",
-    "status": "VALID",
+    "status": "EXPIRED",
     "responsiblePerson": "Joseph Mauya",
     "remarks": ""
   },
@@ -535,6 +535,17 @@
     "routeDetail": "-",
     "expiryDate": "2026-08-13",
     "status": "VALID",
+    "responsiblePerson": "-",
+    "remarks": "@ the yard"
+  },
+  {
+    "id": 50,
+    "assetType": "TRAILER",
+    "regNo": "KU1071",
+    "documentType": "MOTOR INSURANCE CERT",
+    "routeDetail": "-",
+    "expiryDate": "2027-08-08",
+    "status": "EXPIRED",
     "responsiblePerson": "-",
     "remarks": "@ the yard"
   }
