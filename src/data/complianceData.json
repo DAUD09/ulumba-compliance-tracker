@@ -515,5 +515,27 @@
     "status": "VALID",
     "responsiblePerson": "Joseph Mauya",
     "remarks": "-"
+  },
+  {
+    "id": 48,
+    "assetType": "Horse",
+    "regNo": "KU8903",
+    "documentType": "CERTIFICATE OF FITNESS",
+    "routeDetail": "-",
+    "expiryDate": "2026-10-25",
+    "status": "VALID",
+    "responsiblePerson": "-",
+    "remarks": "@ the yard"
+  },
+  {
+    "id": 49,
+    "assetType": "Horse",
+    "regNo": "KU8903",
+    "documentType": "MOTOR INSURANCE CERT",
+    "routeDetail": "-",
+    "expiryDate": "2026-08-13",
+    "status": "VALID",
+    "responsiblePerson": "-",
+    "remarks": "@ the yard"
   }
 ]
