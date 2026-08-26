@@ -525,7 +525,7 @@
     "expiryDate": "2026-10-25",
     "status": "VALID",
     "responsiblePerson": "-",
-    "remarks": "@ the yard"
+    "remarks": "KALONGONDA"
   },
   {
     "id": 49,
@@ -536,7 +536,7 @@
     "expiryDate": "2026-08-13",
     "status": "VALID",
     "responsiblePerson": "-",
-    "remarks": "@ the yard"
+    "remarks": "KALONGONDA"
   },
   {
     "id": 50,
@@ -545,8 +545,30 @@
     "documentType": "MOTOR INSURANCE CERT",
     "routeDetail": "-",
     "expiryDate": "2027-08-08",
-    "status": "EXPIRED",
+    "status": "VALID",
     "responsiblePerson": "-",
-    "remarks": "@ the yard"
+    "remarks": "benard"
+  },
+  {
+    "id": 51,
+    "assetType": "Horse",
+    "regNo": "KU1708",
+    "documentType": "CERTIFICATE OF FITNESS",
+    "routeDetail": "-",
+    "expiryDate": "2026-09-10",
+    "status": "VALID",
+    "responsiblePerson": "-",
+    "remarks": "benard"
+  },
+  {
+    "id": 52,
+    "assetType": "Horse",
+    "regNo": "KU1708",
+    "documentType": "MOTOR INSURANCE CERT",
+    "routeDetail": "-",
+    "expiryDate": "2027-03-04",
+    "status": "VALID",
+    "responsiblePerson": "-",
+    "remarks": "benard"
   }
 ]
