@@ -379,8 +379,8 @@
     "regNo": "KU5563",
     "documentType": "CERTIFICATE OF FITNESS",
     "routeDetail": "-",
-    "expiryDate": "2026-08-14",
-    "status": "EXPIRED",
+    "expiryDate": "2027-08-26",
+    "status": "VALID",
     "responsiblePerson": "Joseph Mauya",
     "remarks": ""
   },
@@ -570,5 +570,16 @@
     "status": "VALID",
     "responsiblePerson": "-",
     "remarks": "benard"
+  },
+  {
+    "id": 53,
+    "assetType": "SEMI TRAILER",
+    "regNo": "KU1066",
+    "documentType": "CROSS BORDER PERMIT",
+    "routeDetail": "MW-ZIM",
+    "expiryDate": "2027-08-27",
+    "status": "VALID",
+    "responsiblePerson": "-",
+    "remarks": "-"
   }
 ]
