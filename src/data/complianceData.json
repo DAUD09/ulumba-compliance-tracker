@@ -524,8 +524,8 @@
     "routeDetail": "-",
     "expiryDate": "2026-10-25",
     "status": "VALID",
-    "responsiblePerson": "-",
-    "remarks": "KALONGONDA"
+    "responsiblePerson": "KALONGONDA",
+    "remarks": "-"
   },
   {
     "id": 49,
@@ -535,8 +535,8 @@
     "routeDetail": "-",
     "expiryDate": "2026-08-13",
     "status": "VALID",
-    "responsiblePerson": "-",
-    "remarks": "KALONGONDA"
+    "responsiblePerson": "KALONGONDA",
+    "remarks": "-"
   },
   {
     "id": 50,
@@ -546,8 +546,8 @@
     "routeDetail": "-",
     "expiryDate": "2027-08-08",
     "status": "VALID",
-    "responsiblePerson": "-",
-    "remarks": "benard"
+    "responsiblePerson": "BENARD",
+    "remarks": "-"
   },
   {
     "id": 51,
@@ -557,8 +557,8 @@
     "routeDetail": "-",
     "expiryDate": "2026-09-10",
     "status": "VALID",
-    "responsiblePerson": "-",
-    "remarks": "benard"
+    "responsiblePerson": "BENARD",
+    "remarks": "-"
   },
   {
     "id": 52,
@@ -568,8 +568,8 @@
     "routeDetail": "-",
     "expiryDate": "2027-03-04",
     "status": "VALID",
-    "responsiblePerson": "-",
-    "remarks": "benard"
+    "responsiblePerson": "BENARD",
+    "remarks": "-"
   },
   {
     "id": 53,
@@ -580,6 +580,17 @@
     "expiryDate": "2027-08-27",
     "status": "VALID",
     "responsiblePerson": "-",
+    "remarks": "-"
+  },
+  {
+    "id": 54,
+    "assetType": "TRAILER",
+    "regNo": "KU1071",
+    "documentType": "CERTIFICATE OF FITNESS",
+    "routeDetail": "-",
+    "expiryDate": "2027-04-18",
+    "status": "VALID",
+    "responsiblePerson": "BENARD",
     "remarks": "-"
   }
 ]
